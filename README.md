@@ -1,4 +1,4 @@
-#James Mallette
+# James Mallette 
 
 Hi! I'm James, a CS and Mathematics student at Oxford College of Emory University.
 
